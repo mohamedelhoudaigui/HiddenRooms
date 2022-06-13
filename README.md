@@ -2,10 +2,10 @@
 A free realtime chat app with node js, express and socket.io 
 
 
-#installation :
+# Installation :
 
 1- npm install
 2- npm run dev
 
 
-#Injoy
+# Injoy
